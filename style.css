@@ -2,17 +2,6 @@
     background-color: rgb(204, 101, 152);
     height: 200vh;
 }
-.background-1 {
-    background-color: darkgray;
-    height: 45vh;
-    width: 117vh;
-    position: absolute;
-    top: 10%;
-    left: 26%;
-    margin-top: -50px;
-    margin-left: -50px;
-
-}
 .left-img {
     width: 35vh; 
     height: 50vh; 
@@ -50,14 +39,14 @@
     background: #cc2828;
     position: absolute;
     top: 108%;
-    left: 17%;
+    left: 16%;
     margin-top: -50px;
     margin-left: -50px;
 }
 .mid-new {
     background-color: darkgray;
     height: 45vh;
-    width: 86vh;
+    width: 57vh;
     position: absolute;
     top: 61%;
     left: 26%;
@@ -67,7 +56,7 @@
 .mid-new-1 {
     background-color: darkgray;
     height: 45vh;
-    width: 86vh;
+    width: 57vh;
     position: absolute;
     top: 107%;
     left: 26%;
