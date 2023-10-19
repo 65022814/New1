@@ -1,0 +1,107 @@
+.background{
+    background-color: rgb(204, 101, 152);
+    height: 200vh;
+}
+.mid {
+    width:69vh; 
+    height: 85vh; 
+    background: #1414ee;
+    position: absolute;
+    top: 10%;
+    left: 26%;
+    margin-top: -50px;
+    margin-left: -50px;
+}
+.right{
+    width: 31vh; 
+    height: 30vh; 
+    background: #cc2828;
+    position: absolute;
+    top: 10%;
+    left: 79%;
+    margin-top: -50px;
+    margin-left: -50px;
+}
+.mid-new {
+    background-color: darkgray;
+    height: 20vh;
+    width: 57vh;
+    position: absolute;
+    top: 61%;
+    left: 26%;
+    margin-top: -325px;
+    margin-left: -13px;
+    border-radius: 7px; 
+    border: 1px
+}
+.mid-new-1 {
+    background-color: darkgray;
+    height: 17vh;
+    width: 57vh;
+    position: absolute;
+    top: 87%;
+    left: 26%;
+    margin-top: -325px;
+    margin-left: -13px;
+    border-radius: 7px; 
+    border: 1px
+}
+.mid-img{
+    background-color: rgb(222, 37, 37);
+    height: 12vh;
+    width: 12vh;
+    top: 87%;
+    left: 26%;
+    margin: 5px;
+}
+.mid-new-2 {
+    background-color: darkgray;
+    height: 17vh;
+    width: 57vh;
+    position: absolute;
+    top: 105%;
+    left: 26%;
+    margin-top: -325px;
+    margin-left: -13px;
+    border-radius: 7px; 
+    border: 1px
+}
+.mid-img1{
+    background-color: rgb(222, 37, 37);
+    height: 12vh;
+    width: 12vh;
+    top: 87%;
+    left: 26%;
+    margin: 5px;
+}
+.mid-new-3 {
+    background-color: darkgray;
+    height: 9vh;
+    width: 57vh;
+    position: absolute;
+    top: 123%;
+    left: 26%;
+    margin-top: -325px;
+    margin-left: -13px;
+    border-radius: 7px; 
+    border: 1px;
+}
+.mid-buy {
+    background-color: rgb(222, 37, 37);
+    border-radius: 20px;
+    width: 65px; 
+    height: 24px;
+    margin-left: 275px;
+    margin-top: 8px;
+}
+.mid-buy1 {
+    background-color: rgb(222, 37, 37);
+    border-radius: 20px;
+    position: absolute;
+    width: 90px; 
+    height: 30px;
+    top: 135%;
+    left: 26%;
+    margin-top: -325px;
+    margin-left: -13px;
+}
